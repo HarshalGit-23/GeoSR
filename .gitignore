@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+*.tif
+*.tiff
+*.zip
+*.SAFE
+outputs/
+.env
+.vscode/
+.DS_Store
