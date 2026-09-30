@@ -1,4 +1,8 @@
-streamlit
-rasterio
-matplotlib
+torch
+torchvision
 numpy
+rasterio
+huggingface_hub
+safetensors
+streamlit
+matplotlib
