@@ -11,3 +11,5 @@ outputs/
 .env
 .vscode/
 .DS_Store
+Thumbs.db
+.task-deps/
