@@ -1,6 +1,8 @@
-﻿torch
+torch
 torchvision
 numpy
 rasterio
 huggingface_hub
 safetensors
+streamlit
+matplotlib
